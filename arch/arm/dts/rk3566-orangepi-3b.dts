@@ -2,4 +2,4 @@
 
 /dts-v1/;
 
-#include "rk3566-orangepi-3b.dtsi"
+#include <arm64/rockchip/rk3566-orangepi-3b.dtsi>
